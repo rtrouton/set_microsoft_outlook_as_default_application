@@ -1,0 +1,19 @@
+Once you have created the Automator application, you will need to do the following steps:
+
+1. Unzip the following files:
+
+* application_source_components_and_graphics/pre-built_components/duti.zip
+* application_source_components_and_graphics/icon/folder_icon.zip
+* application_source_components_and_graphics/icon/application_icons.zip
+
+2. Add the following to Set Microsoft Outlook as default application for email calendars and contacts.app/Contents/Resources:
+
+* The unzipped duti binary from application_source_components_and_graphics/pre-built_components/
+
+3. Give the Automator application the Set Microsoft Outlook as default application for email calendars and contacts.app folder icon.
+
+4. Go into Set Microsoft Outlook as default application for email calendars and contacts.app/Contents/Resources and remove the following file:
+
+AutomatorApplet.icns
+
+5. Rename the unzipped application_icons.zip file to be AutomatorApplet.icns and copy it to Set Microsoft Outlook as default application for email calendars and contacts.app/Contents/Resources.

@@ -1,0 +1,11 @@
+# Set Microsoft Outlook as the default mail program
+
+"$1/Contents/Resources/duti" -s com.microsoft.outlook mailto
+
+# Set Microsoft Outlook as the default calendar program
+
+"$1/Contents/Resources/duti" -s com.microsoft.outlook ics all
+
+# Set Microsoft Outlook as the default contacts program
+
+"$1/Contents/Resources/duti" -s com.microsoft.outlook vcf all

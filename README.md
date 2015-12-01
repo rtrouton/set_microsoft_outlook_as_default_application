@@ -31,10 +31,12 @@ The  application includes an embedded copy of duti, so it is not necessary to ha
 
 2. Unzip the application
 
-3. Double-click on **Set Microsoft Outlook as default application for email calendars and contacts.app**
+3. Double-click on **Set Microsoft Outlook as default application for email calendars and contacts.app** 
+![image](https://raw.githubusercontent.com/rtrouton/set_microsoft_outlook_as_default_application/master/images/application.png)
 
-4. When prompted, click the **OK** or **Cancel** button:
-
+4. When prompted, click the **OK** or **Cancel** button:  
+![image](https://raw.githubusercontent.com/rtrouton/set_microsoft_outlook_as_default_application/master/images/opening_dialog.png)
+				
 		Clicking the OK button: 
 		
 			This will set the newest version of Outlook on the Mac as the default application for email, contacts and calendars
@@ -49,3 +51,5 @@ The  application includes an embedded copy of duti, so it is not necessary to ha
 6. Once the settings changes have been made, the application will notify you that Outlook has been set as the default application for email, contacts and calendars.
 
 7. Click the **Done** button to exit the application.
+
+![image](https://raw.githubusercontent.com/rtrouton/set_microsoft_outlook_as_default_application/master/images/closing_dialog.png)

@@ -2,7 +2,7 @@ While working on an Outlook 2016-related issue, [I found that there is not a str
 
 **Set Microsoft Outlook as default application for email calendars and contacts.app** leverages [duti](http://duti.org), an open source tool used for managing application ownership of document types and URL schemes on Mac OS X, to set the newest version of Microsoft Outlook on the Mac as the default application for email, contacts and calendars. 
 
-The  application includes an embedded copy of duti, so it is not necessary to have duti pre-installed on the Mac in order to use this tool.
+The Automator application includes an embedded copy of **duti**, so it is not necessary to have **duti** pre-installed on the Mac in order to use this tool.
 
 ###**System requirements**
 
